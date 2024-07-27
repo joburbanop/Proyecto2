@@ -4,11 +4,11 @@ de informacion mediante un chatbot interactivo y la clasificacion de imagenes ut
 intelignacia artificial. la Ia para la clasificacion de imagenes ha sido desarrollada con la
 ayuda de herramientas de Google (Teachable Machine: https://teachablemachine.withgoogle.com)
 
-#Funciones
+# Funciones
 1. **chabot interactivo** :
 2. **clasificacion de imagenes** :
 
-#Tecnologias Utilizadas
+# Tecnologias Utilizadas
 - **Python**: Lenguaje principal para el desarrollo de la logica del bot.
 - **Discord**:
 - **Teachable Machine**:
